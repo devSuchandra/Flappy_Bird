@@ -204,4 +204,5 @@ public class FlappyBird extends JPanel implements ActionListener, KeyListener{
     @Override
     public void keyReleased(KeyEvent e) {
     }
+    System.out.println("Project is Done");
 }
